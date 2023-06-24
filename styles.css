@@ -7,8 +7,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-color: #3498db; /* Cor de fundo azul */
-    background-image: url('festajunina.png'); /* Imagem de festa junina */
-    background-repeat: no-repeat;
+/*     background-image: url('festajunina.png'); /* Imagem de festa junina */ */
+/*     background-repeat: no-repeat; */
     background-position: center center;
     background-size: 400px; /* Tamanho da imagem */
   }
