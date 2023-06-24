@@ -29,9 +29,11 @@ body {
   
   h2 {
     margin-top: 20px;
+    color: #ffffff; /* Cor do texto branco */
   }
   
   #combinationsList {
     margin-top: 10px;
+    color: #ffffff; /* Cor do texto branco */
   }
   
